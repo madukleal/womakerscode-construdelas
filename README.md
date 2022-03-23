@@ -1,3 +1,3 @@
 # repositório do curso construdelas
 
-atualização do repositório local
+atualização do repositório.
