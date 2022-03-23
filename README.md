@@ -1,3 +1,3 @@
 # repositório do curso construdelas
 
-atualização do repositório local qualquer coisa cacete
+atualização do repositório local
